@@ -1,0 +1,23 @@
+{
+  "name": "videojs-assets",
+  "description": "videojs build",
+  "main": "",
+  "keywords": [
+    "videojs"
+  ],
+  "authors": [
+    "benIT"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "videojs": "video.js#^6.3.3"
+  }
+}
